@@ -47,6 +47,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-04-10 15:59:46</sys_updated_on>
             <sys_user/>
+            <u_hdd_model/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_form>
